@@ -13,7 +13,7 @@ koliko moze taj treshold iznosit?
 
 dal ima smisla trazit univerzalni treshold?
 
-pogledat VECU, GUI s nekim kucicama haha
+pogledat WEKA-u, GUI s nekim kucicama haha
   -> predodzba kako ce nase klase izgledati
   -> po njemu cemo pisati kod
   
